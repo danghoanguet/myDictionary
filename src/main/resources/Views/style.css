@@ -1,0 +1,5 @@
+.searchField{
+    -fx-backgournd-color: gray;
+    -fx-backgournd-radius: 30px;
+    -fx-border-radius: 30px;
+}
